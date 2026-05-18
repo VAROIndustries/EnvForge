@@ -82,3 +82,9 @@ If the variable doesn't exist in the other scope yet, you'll be prompted to crea
 EnvForge.py      # Main application
 EnvForge.bat     # Launcher with admin elevation
 ```
+---
+
+## More from VARØ Industries
+
+Free web apps, tools, and open-source projects → [varo.industries/apps](https://varo.industries/apps)
+
